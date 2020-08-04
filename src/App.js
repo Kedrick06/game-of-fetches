@@ -63,13 +63,19 @@ const App = () => {
 
   return (
     <div className="App">
-        Question one is: {questionOne}
-        Question two is: {questionTwo}
-        Question three is: {questionThree}
-        Question four is: {questionFour}
-        Question five is: {questionFive}
-        Question six is: {questionSix}
-        Question seven is: {questionSeven}
+        <h1>The Answer to question one is: {questionOne} </h1>
+        
+        <h1>The Answer to question two is: {questionTwo} </h1>
+        
+        <h1>The Answer to question three is: {questionThree}</h1>
+        
+        <h1>The Answer to question four is: {questionFour}</h1>
+        
+        <h1>The Answer to question five is: {questionFive}</h1>
+        
+        <h1>The Answer to question six is: {questionSix}</h1>
+        
+        <h1>The Answer to question seven is: {questionSeven}</h1>
 
 
     </div>
