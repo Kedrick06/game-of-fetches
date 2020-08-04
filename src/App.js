@@ -39,7 +39,8 @@ const App = () => {
         const answerNumber4 = allData[3].data.seats[1];
         const answerNumber5 = allData[4].data.aliases[2];
         const answerNumber6 = allData[5].data.founder;
-        const answerNumber7 = allData[6].data.povBooks[[]];
+        const answerNumber7 = allData[6].data.povBooks[[0]];
+      
 
         setAnswerOne(answerNumber1)
         setAnswerTwo(answerNumber2)
