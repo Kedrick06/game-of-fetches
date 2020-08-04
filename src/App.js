@@ -76,8 +76,7 @@ const App = () => {
         <h1>The Answer to question six is: {questionSix}</h1>
         
         <h1>The Answer to question seven is: {questionSeven}</h1>
-
-
+        
     </div>
   )
 }
